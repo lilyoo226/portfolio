@@ -14,8 +14,8 @@
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "animate.css": "^4.1.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-lazyload": "github:twobin/react-lazyload",
     "react-map-gl": "^7.0.23",
     "react-router-dom": "^6.10.0",
