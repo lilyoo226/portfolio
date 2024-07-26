@@ -18,7 +18,7 @@
     "react-dom": "^18.2.0",
     "react-lazyload": "github:twobin/react-lazyload",
     "react-map-gl": "^7.0.23",
-    "react-router-dom": "^6.10.0",
+    "react-router-dom": "^6.24.1",
     "react-router-hash-link": "^2.4.3",
     "vite-plugin-svgr": "^2.4.0"
   },
